@@ -1,4 +1,4 @@
-### Louis Michel — Symfony developer, applied AI engineering
+## Louis Michel — Symfony developer, applied AI engineering
 
 I work on applications that are already in production: maintenance, version upgrades, legacy takeover, third-party API integration. Six years of PHP and Symfony. For the past two years I have been putting language models into production across three providers, and working with AI-assisted development every day.
 
